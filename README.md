@@ -15,9 +15,10 @@ Estudio en el Instituto Tecnológico de Tijuana:
 - Email: eduardo.rodriguez193@tectijuana.edu.mx
 
 ###A1.6  SCP, SSH y WGET
-Creacion del archivo Practica1
+
+-Creacion del archivo Practica1
 ![] (Creacion del archivo Practica1.png)
-Se envia a la instancia ubuntu
+-Se envia a la instancia ubuntu
 ![] (SS exito de transferencia .png)
-Se revisa que este el archivo en la instancia
+-Se revisa que este el archivo en la instancia
 ![] (SS linux aws.png)
