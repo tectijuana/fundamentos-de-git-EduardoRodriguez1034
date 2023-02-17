@@ -19,7 +19,13 @@ Estudio en el Instituto Tecnológico de Tijuana:
 -Creacion del archivo Practica1
 
 [![Creacion-del-archivo-Practica1.png](https://i.postimg.cc/CKpzd0Cj/Creacion-del-archivo-Practica1.png)](https://postimg.cc/hXMS3H5j)
+
+
+
 -Se envia a la instancia ubuntu
-![] (SS exito de transferencia .png)
+[![SS-exito-de-transferencia.png](https://i.postimg.cc/tgd7xcD8/SS-exito-de-transferencia.png)](https://postimg.cc/v1BQR3Jv)
+
+
+
 -Se revisa que este el archivo en la instancia
-![] (SS linux aws.png)
+[![SS-linux-aws.png](https://i.postimg.cc/j5s2QhF2/SS-linux-aws.png)](https://postimg.cc/p96PPKxM)
