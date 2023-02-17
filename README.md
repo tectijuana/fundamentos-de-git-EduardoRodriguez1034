@@ -14,4 +14,10 @@ Estudio en el Instituto Tecnológico de Tijuana:
 - Discord: Lalo1034#5038
 - Email: eduardo.rodriguez193@tectijuana.edu.mx
 
-
+###A1.6  SCP, SSH y WGET
+Creacion del archivo Practica1
+![] (Creacion del archivo Practica1.png)
+Se envia a la instancia ubuntu
+![] (SS exito de transferencia .png)
+Se revisa que este el archivo en la instancia
+![] (SS linux aws.png)
