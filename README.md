@@ -17,7 +17,8 @@ Estudio en el Instituto Tecnológico de Tijuana:
 ### A1.6 SCP, SSH Y WGET
 
 -Creacion del archivo Practica1
-![] (https://raw.githubusercontent.com/tectijuana/fundamentos-de-git-EduardoRodriguez1034/main/Creacion%20del%20archivo%20Practica1.png)
+
+![](Creacion del archivo Practica1.png)
 -Se envia a la instancia ubuntu
 ![] (SS exito de transferencia .png)
 -Se revisa que este el archivo en la instancia
