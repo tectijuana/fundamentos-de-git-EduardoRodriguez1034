@@ -18,7 +18,7 @@ Estudio en el Instituto Tecnológico de Tijuana:
 
 -Creacion del archivo Practica1
 
-![](Creacion del archivo Practica1.png)
+[![Creacion-del-archivo-Practica1.png](https://i.postimg.cc/CKpzd0Cj/Creacion-del-archivo-Practica1.png)](https://postimg.cc/hXMS3H5j)
 -Se envia a la instancia ubuntu
 ![] (SS exito de transferencia .png)
 -Se revisa que este el archivo en la instancia
