@@ -14,7 +14,7 @@ Estudio en el Instituto Tecnológico de Tijuana:
 - Discord: Lalo1034#5038
 - Email: eduardo.rodriguez193@tectijuana.edu.mx
 
-###A1.6  SCP, SSH y WGET
+### A1.6 SCP, SSH Y WGET
 
 -Creacion del archivo Practica1
 ![] (Creacion del archivo Practica1.png)
